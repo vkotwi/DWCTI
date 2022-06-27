@@ -1,0 +1,9 @@
+Dark web CTI 
+- collection and analysis tool
+- Gathering and categorising threat
+- Collection and threat categorisation
+- Threat analysis and categorisation ??
+- Crawler, Scraper, Categoriser
+TAC
+
+https://docs.python-guide.org/writing/structure/
